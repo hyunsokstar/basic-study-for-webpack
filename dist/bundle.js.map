@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA","sources":["webpack://basic-study-for-webpack/./src/js/index.js"],"sourcesContent":["console.log(\"hi hyunsok\");\r\n"],"names":[],"sourceRoot":""}
